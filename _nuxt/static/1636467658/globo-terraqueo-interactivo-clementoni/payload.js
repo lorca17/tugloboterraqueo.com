@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/globo-terraqueo-interactivo-clementoni", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("manifest.js", {routes:["\u002F","\u002Faviso-legal","\u002Faviso-de-cookies","\u002Fglobo-terraqueo-3d","\u002Fglobo-terraqueo-flotante","\u002Fantiguo-vintage-decoracion","\u002Fglobo-terraqueo-hinchable","\u002Fglobos-terraqueos-luz","\u002Fglobo-terraqueo-interactivo-clementoni"]})

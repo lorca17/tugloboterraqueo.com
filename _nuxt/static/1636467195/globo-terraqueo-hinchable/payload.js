@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/globo-terraqueo-hinchable", {data:[{}],fetch:{},mutations:void 0});

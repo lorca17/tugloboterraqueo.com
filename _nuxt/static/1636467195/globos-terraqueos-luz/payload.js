@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/globos-terraqueos-luz", {data:[{}],fetch:{},mutations:void 0});
